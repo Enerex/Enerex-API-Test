@@ -35,7 +35,3 @@ Complete the application design taking into consideration SOLID principles.
 # Once completed
 
 After completion please contact your recruiter and share a link to the github or docker with the solution.
-
-
-# Once completed
-After completion please contact your recruiter and share a link to the github or docker with the solution.
